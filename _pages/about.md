@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: "prof_pic.jpg"
   address: >
     <p> 434, A28 Physics Rd. </p>
     <p> School of Physics, </p>
