@@ -83,9 +83,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name:   # your blog must have a name for it to show up in the nav bar
+blog_description: 
+permalink: 
 
 # Pagination
 pagination:
@@ -187,7 +187,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+  enabled: [] # enables year, tag and category archives (remove if you need to disable one of them). 
   layouts:
     year: archive-year
     tag: archive-tag
